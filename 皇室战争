@@ -1,0 +1,32 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+checkGetDisplay	C:/Users/chenlong/Documents/xspworkspace/皇室战争/xsp/src\main.lua	22;"	f
+checkHeroReady	C:/Users/chenlong/Documents/xspworkspace/皇室战争/xsp/src\main.lua	68;"	f
+checkPlaceHero	C:/Users/chenlong/Documents/xspworkspace/皇室战争/xsp/src\main.lua	132;"	f
+display	C:/Users/chenlong/Documents/xspworkspace/皇室战争/xsp/src\main.lua	148;"	e
+fullWater	C:/Users/chenlong/Documents/xspworkspace/皇室战争/xsp/src\main.lua	134;"	e
+heroIndex	C:/Users/chenlong/Documents/xspworkspace/皇室战争/xsp/src\main.lua	108;"	e
+heroIndex	C:/Users/chenlong/Documents/xspworkspace/皇室战争/xsp/src\main.lua	3;"	e
+heroPosList	C:/Users/chenlong/Documents/xspworkspace/皇室战争/xsp/src\main.lua	4;"	e
+highx	C:/Users/chenlong/Documents/xspworkspace/皇室战争/xsp/src\main.lua	9;"	e
+highy	C:/Users/chenlong/Documents/xspworkspace/皇室战争/xsp/src\main.lua	10;"	e
+hx	C:/Users/chenlong/Documents/xspworkspace/皇室战争/xsp/src\main.lua	106;"	e
+hy	C:/Users/chenlong/Documents/xspworkspace/皇室战争/xsp/src\main.lua	107;"	e
+isFirstTurn	C:/Users/chenlong/Documents/xspworkspace/皇室战争/xsp/src\main.lua	13;"	e
+isFullWater	C:/Users/chenlong/Documents/xspworkspace/皇室战争/xsp/src\main.lua	95;"	f
+loopAdd	C:/Users/chenlong/Documents/xspworkspace/皇室战争/xsp/src\main.lua	76;"	f
+loopDel	C:/Users/chenlong/Documents/xspworkspace/皇室战争/xsp/src\main.lua	85;"	f
+placeHero	C:/Users/chenlong/Documents/xspworkspace/皇室战争/xsp/src\main.lua	104;"	f
+placeIndex	C:/Users/chenlong/Documents/xspworkspace/皇室战争/xsp/src\main.lua	122;"	e
+placeIndex	C:/Users/chenlong/Documents/xspworkspace/皇室战争/xsp/src\main.lua	6;"	e
+placePosList	C:/Users/chenlong/Documents/xspworkspace/皇室战争/xsp/src\main.lua	7;"	e
+px	C:/Users/chenlong/Documents/xspworkspace/皇室战争/xsp/src\main.lua	123;"	e
+py	C:/Users/chenlong/Documents/xspworkspace/皇室战争/xsp/src\main.lua	124;"	e
+timeCount	C:/Users/chenlong/Documents/xspworkspace/皇室战争/xsp/src\main.lua	15;"	e
+value	C:/Users/chenlong/Documents/xspworkspace/皇室战争/xsp/src\main.lua	77;"	e
+value	C:/Users/chenlong/Documents/xspworkspace/皇室战争/xsp/src\main.lua	86;"	e
+waterIndex	C:/Users/chenlong/Documents/xspworkspace/皇室战争/xsp/src\main.lua	12;"	e
